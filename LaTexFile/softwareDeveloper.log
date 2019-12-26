@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.18)  19 DEC 2019 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.12.18)  26 DEC 2019 16:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -258,8 +258,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 93.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 191.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 189.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -270,13 +270,13 @@ This may cause the page layout to be inconsistent, however.
 [1
 
 {d:/Program Files/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
  (d:/Documents/GitHub/My-CV/LaTexFile/softwareDeveloper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 Package rerunfilecheck Info: File `softwareDeveloper.out' has not changed.
 (rerunfilecheck)             Checksum: 92B2A5DA7796704C09DCA9BF233E8126;241.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  ) 
 Here is how much of TeX's memory you used:
  6116 strings out of 492163
@@ -287,7 +287,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  40i,11n,45p,357b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb><d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><d:/Program Files/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on d:/Documents/GitHub/My-CV/LaTexFile/softwareDeveloper.pdf (1 page, 142318 bytes).
+Output written on d:/Documents/GitHub/My-CV/LaTexFile/softwareDeveloper.pdf (1 page, 145828 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
